@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgZH", "ProgZH\ProgZH.csproj", "{E618B0BE-3341-47C9-8EB2-AE9AA702DA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgZH2", "ProgZH2\ProgZH2.csproj", "{B65F032E-BA46-4F2A-B809-BCA179A01272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E618B0BE-3341-47C9-8EB2-AE9AA702DA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618B0BE-3341-47C9-8EB2-AE9AA702DA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618B0BE-3341-47C9-8EB2-AE9AA702DA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618B0BE-3341-47C9-8EB2-AE9AA702DA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65F032E-BA46-4F2A-B809-BCA179A01272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65F032E-BA46-4F2A-B809-BCA179A01272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65F032E-BA46-4F2A-B809-BCA179A01272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65F032E-BA46-4F2A-B809-BCA179A01272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F0328B-B2C7-48E2-BF14-B3B56ACD1D3C}
+	EndGlobalSection
+EndGlobal
